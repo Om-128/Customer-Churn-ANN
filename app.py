@@ -23,7 +23,7 @@ with open('scaler.pkl', 'rb') as f:
 
 
 #Streamlit app
-st.title("Customer Churn Prediction")
+st.title(":rainbow[Customer Churn Prediction]")
 st.write("Enter customer details to predict churn probability.")
 
 #Input fields
